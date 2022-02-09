@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTypingApi", "FastTypingApi\FastTypingApi.csproj", "{647CF2F4-42C4-452F-B70F-18B5F7366996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647CF2F4-42C4-452F-B70F-18B5F7366996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647CF2F4-42C4-452F-B70F-18B5F7366996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647CF2F4-42C4-452F-B70F-18B5F7366996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647CF2F4-42C4-452F-B70F-18B5F7366996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712643C8-36FF-4069-8C90-D2EAC8C6410B}
+	EndGlobalSection
+EndGlobal
